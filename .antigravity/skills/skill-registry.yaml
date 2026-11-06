@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: lac-courte-oreilles-band-of-lake-superioan-restitution-roadmap-and-qsf-trust-execution
+  name: Lac Courte Oreilles Band of Lake Superioan Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/lac-courte-oreilles-band-of-lake-superioan-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
